@@ -39,4 +39,5 @@ are stored separately, with a partial unique index enforcing at most one cover
 image per dish. Dish names are unique within a category (case-insensitive).
 Prices are entered and displayed in Vietnamese dong (VND). The five bundled
 sample dish names have English and Vietnamese display labels; user-entered
-names are kept as entered.
+names are kept as entered
+[Video Demo](https://drive.google.com/file/d/1-DLXWIP0KG2mokSZZxuiXcZrMvbMcLEV/view?usp=sharing)
